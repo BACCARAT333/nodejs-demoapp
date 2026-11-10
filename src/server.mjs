@@ -151,3 +151,6 @@ app.listen(port)
 console.log(`### 🌐 Server listening on port ${port}`)
 
 export default app
+
+// Lab 2, task 2: intentional syntax error (missing closing parenthesis)
+const brokenCall = console.log('CI failure test'
